@@ -1,11 +1,13 @@
 about:
-  description: Scan a network and create a list of IPs and associated hostnames, including mDNS hostnames and other aliases.
+  description:
+  |
+    Scan a network and create a list of IPs and associated hostnames, including mDNS hostnames and other aliases.
   license: Apache-2.0
   homepage: 
   head: a9b45f2
   archived: false
   latestVersion: v0.28.0
-  collectedAt: 2026-09-04T03:55:38Z
+  collectedAt: 2026-09-04T19:20:45Z
 timeline:
   created: 2025-04-12
   lastCommit: 2026-08-16
@@ -16,13 +18,13 @@ popularity:
   fork: 3
   release: 55
   contributor: 1
-  pullRequest: 43
+  pullRequest: 257
   issue: 42
 language:
   Rust: 645627
   Shell: 5373
   Just: 3269
-totalLine: 654269
+totalBytes: 654269
 recent:
   last30d:
     since: 2026-08-05
@@ -32,6 +34,14 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 9
+  last60d:
+    since: 2026-07-06
+    release: 2
+    mergedPR: 14
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 17
   last90d:
     since: 2026-06-06
     release: 5
@@ -56,3 +66,21 @@ recent:
     closedIssue: 6
     openIssue: 1
     commit: 97
+  last720d:
+    since: 2024-09-14
+    release: 55
+    mergedPR: 214
+    openPR: 0
+    closedIssue: 40
+    openIssue: 2
+    commit: 278
+total:
+  release: 55
+  mergedPR: 214
+  openPR: 0
+  closedIssue: 40
+  openIssue: 2
+  commit: 278
+---
+---
+
