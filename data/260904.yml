@@ -7,7 +7,7 @@ about:
   head: a9b45f2
   archived: false
   latestVersion: v0.28.0
-  collectedAt: 2026-09-04T19:20:45Z
+  collectedAt: 2026-09-04T21:15:40Z
 timeline:
   created: 2025-04-12
   lastCommit: 2026-08-16
@@ -82,5 +82,43 @@ total:
   openIssue: 2
   commit: 278
 ---
+path: /home/runner/.x-repo/github.com/CramBL/mdns-scanner
+collectedAt: 2026-09-04T21:15:42Z
+loc:
+  Rust:
+    code: 15749
+    comments: 409
+    blanks: 2154
+    files: 92
+  Toml:
+    code: 579
+    comments: 112
+    blanks: 85
+    files: 19
+  Sh:
+    code: 141
+    comments: 7
+    blanks: 30
+    files: 1
+  Bash:
+    code: 46
+    comments: 1
+    blanks: 14
+    files: 1
+  Markdown:
+    code: 0
+    comments: 519
+    blanks: 280
+    files: 2
+  Text:
+    code: 0
+    comments: 10
+    blanks: 0
+    files: 1
+total:
+  code: 16566
+  comments: 1836
+  blanks: 2648
+  files: 116
 ---
 
