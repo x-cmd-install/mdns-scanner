@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.28.0"
   latestRelease: "v0.28.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:56:22Z
+  collectedAt: 2026-09-10T22:59:43Z
 timeline:
   created: 2025-04-12
   lastCommit: 2026-09-07
@@ -85,7 +85,7 @@ total:
   commit: 279
 ---
 path: /home/runner/.x-repo/github.com/CramBL/mdns-scanner
-collectedAt: 2026-09-10T20:56:26Z
+collectedAt: 2026-09-10T22:59:45Z
 loc:
   Rust:
     code: 15862
