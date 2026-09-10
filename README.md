@@ -12,6 +12,18 @@ Scan a network and create a list of IPs and associated hostnames, including mDNS
 x install mdns-scanner
 ```
 
+## Code insight
+
+Total: **16,629** lines of code across **116** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 15,862 | 409 | 2,182 | 93 |
+| Toml | 580 | 113 | 86 | 19 |
+| Sh | 141 | 7 | 30 | 1 |
+| Bash | 46 | 1 | 14 | 1 |
+| Markdown | 0 | 521 | 282 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/CramBL/mdns-scanner>
@@ -22,6 +34,25 @@ x install mdns-scanner
 - **Latest**: `v0.28.0` (2026-08-16)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 35
+
+## Popularity
+
+- **Stars**: 72 · **Forks**: 3 · **Open issues**: 42 · **Contributors**: 1
+
+## Totals (cumulative)
+
+- **Releases**: 55 · **Merged PRs**: 215 · **Open PRs**: 1 · **Closed issues**: 41 · **Open issues**: 1 · **Commits**: 279
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 10 | 1 | 0 | 0 | 10 |
+| last60d | 2026-07-12 | 2 | 14 | 1 | 0 | 0 | 16 |
+| 90d | 2026-06-12 | 5 | 21 | 1 | 0 | 0 | 26 |
+| last180d | 2026-03-14 | 8 | 49 | 1 | 2 | 0 | 57 |
+| 360d | 2025-09-15 | 16 | 87 | 1 | 7 | 0 | 94 |
+| last720d | 2024-09-20 | 55 | 215 | 1 | 41 | 1 | 279 |
 
 ## Release assets
 
@@ -63,33 +94,13 @@ x install mdns-scanner
 | [source.tar.gz](https://github.com/CramBL/mdns-scanner/releases/download/v0.28.0/source.tar.gz) | 6.0 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/CramBL/mdns-scanner/releases/download/v0.28.0/source.tar.gz.sha256) | 81 B | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 72 · **Forks**: 3 · **Open issues**: 42 · **Contributors**: 1
+Reported by **5** distros on [repology.org](https://repology.org/project/mdns-scanner). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 55 · **Merged PRs**: 215 · **Open PRs**: 1 · **Closed issues**: 41 · **Open issues**: 1 · **Commits**: 279
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 10 | 1 | 0 | 0 | 10 |
-| 90d | 2026-06-12 | 5 | 21 | 1 | 0 | 0 | 26 |
-| 360d | 2025-09-15 | 16 | 87 | 1 | 7 | 0 | 94 |
-
-## Code size
-
-Total: **16,629** lines of code across **116** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 15,862 | 409 | 2,182 | 93 |
-| Toml | 580 | 113 | 86 | 19 |
-| Sh | 141 | 7 | 30 | 1 |
-| Bash | 46 | 1 | 14 | 1 |
-| Markdown | 0 | 521 | 282 | 2 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.28.0` | ✅ latest |
 
 ## Improve this data
 
@@ -100,4 +111,4 @@ Install metadata for mdns-scanner lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:35:56Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:56:37Z._
