@@ -22,7 +22,7 @@ Total: **16,629** lines of code across **116** files in the top 5 languages.
 | Toml | 580 | 113 | 86 | 19 |
 | Sh | 141 | 7 | 30 | 1 |
 | Bash | 46 | 1 | 14 | 1 |
-| Markdown | 0 | 523 | 284 | 2 |
+| Markdown | 0 | 524 | 284 | 2 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **16,629** lines of code across **116** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.28.0` (2026-08-16)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-13
 - **Assets in release**: 35
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **16,629** lines of code across **116** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 216 · **Open PRs**: 2 · **Closed issues**: 41 · **Open issues**: 1 · **Commits**: 280
+- **Releases**: 55 · **Merged PRs**: 217 · **Open PRs**: 0 · **Closed issues**: 41 · **Open issues**: 1 · **Commits**: 281
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 11 | 2 | 0 | 0 | 2 |
-| last60d | 2026-07-15 | 2 | 15 | 2 | 0 | 0 | 13 |
-| 90d | 2026-06-15 | 5 | 21 | 2 | 0 | 0 | 25 |
-| last180d | 2026-03-17 | 8 | 49 | 2 | 2 | 0 | 54 |
-| 360d | 2025-09-18 | 16 | 88 | 2 | 7 | 0 | 94 |
-| last720d | 2024-09-23 | 55 | 216 | 2 | 41 | 1 | 280 |
+| 30d | 2026-08-15 | 1 | 12 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-16 | 2 | 16 | 0 | 0 | 0 | 14 |
+| 90d | 2026-06-16 | 5 | 22 | 0 | 0 | 0 | 26 |
+| last180d | 2026-03-18 | 8 | 50 | 0 | 2 | 0 | 55 |
+| 360d | 2025-09-19 | 16 | 89 | 0 | 7 | 0 | 95 |
+| last720d | 2024-09-24 | 55 | 217 | 0 | 41 | 1 | 281 |
 
 ## Release assets
 
@@ -94,14 +94,6 @@ Total: **16,629** lines of code across **116** files in the top 5 languages.
 | [source.tar.gz](https://github.com/CramBL/mdns-scanner/releases/download/v0.28.0/source.tar.gz) | 6.0 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/CramBL/mdns-scanner/releases/download/v0.28.0/source.tar.gz.sha256) | 81 B | `other` |
 
-## Distribution status
-
-Reported by **5** distros on [repology.org](https://repology.org/project/mdns-scanner). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.28.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for mdns-scanner lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mdns-scanner` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -111,4 +103,4 @@ Install metadata for mdns-scanner lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:21:07Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:18:46Z._

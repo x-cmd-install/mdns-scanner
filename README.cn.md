@@ -22,7 +22,7 @@ x install mdns-scanner
 | Toml | 580 | 113 | 86 | 19 |
 | Sh | 141 | 7 | 30 | 1 |
 | Bash | 46 | 1 | 14 | 1 |
-| Markdown | 0 | 523 | 284 | 2 |
+| Markdown | 0 | 524 | 284 | 2 |
 
 ## 源代码
 
@@ -32,7 +32,7 @@ x install mdns-scanner
 ## 发布
 
 - **最新版本**: `v0.28.0` (2026-08-16)
-- **最近提交**: 2026-09-12
+- **最近提交**: 2026-09-13
 - **Release 含资产**: 35 个
 
 ## 流行度
@@ -41,18 +41,18 @@ x install mdns-scanner
 
 ## 累计统计
 
-- **发布数**: 55 · **已合并 PR**: 216 · **开放 PR**: 2 · **已关闭 issue**: 41 · **开放 issue**: 1 · **提交数**: 280
+- **发布数**: 55 · **已合并 PR**: 217 · **开放 PR**: 0 · **已关闭 issue**: 41 · **开放 issue**: 1 · **提交数**: 281
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 11 | 2 | 0 | 0 | 2 |
-| last60d | 2026-07-15 | 2 | 15 | 2 | 0 | 0 | 13 |
-| 90d | 2026-06-15 | 5 | 21 | 2 | 0 | 0 | 25 |
-| last180d | 2026-03-17 | 8 | 49 | 2 | 2 | 0 | 54 |
-| 360d | 2025-09-18 | 16 | 88 | 2 | 7 | 0 | 94 |
-| last720d | 2024-09-23 | 55 | 216 | 2 | 41 | 1 | 280 |
+| 30d | 2026-08-15 | 1 | 12 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-16 | 2 | 16 | 0 | 0 | 0 | 14 |
+| 90d | 2026-06-16 | 5 | 22 | 0 | 0 | 0 | 26 |
+| last180d | 2026-03-18 | 8 | 50 | 0 | 2 | 0 | 55 |
+| 360d | 2025-09-19 | 16 | 89 | 0 | 7 | 0 | 95 |
+| last720d | 2024-09-24 | 55 | 217 | 0 | 41 | 1 | 281 |
 
 ## Release 资产
 
@@ -94,14 +94,6 @@ x install mdns-scanner
 | [source.tar.gz](https://github.com/CramBL/mdns-scanner/releases/download/v0.28.0/source.tar.gz) | 6.0 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/CramBL/mdns-scanner/releases/download/v0.28.0/source.tar.gz.sha256) | 81 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/mdns-scanner) 上共有 **5** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `0.28.0` | ✅ latest |
-
 ## 改进这些数据
 
 mdns-scanner 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `mdns-scanner` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -111,4 +103,4 @@ mdns-scanner 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:21:08Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:18:48Z._
