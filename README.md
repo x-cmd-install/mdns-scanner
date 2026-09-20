@@ -4,7 +4,7 @@
 
 Scan a network and create a list of IPs and associated hostnames, including mDNS hostnames and other aliases.
 
-![mdns-scanner](https://repo.x-cmd.io/mdns-scanner.svg)
+[![x-cmd/install — mdns-scanner Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mdns-scanner.svg)](https://x-cmd.com/install/mdns-scanner)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **16,629** lines of code across **116** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 72 · **Forks**: 3 · **Open issues**: 42 · **Contributors**: 1
+- **Stars**: 72 · **Forks**: 3 · **Open issues**: 43 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 217 · **Open PRs**: 0 · **Closed issues**: 41 · **Open issues**: 1 · **Commits**: 281
+- **Releases**: 55 · **Merged PRs**: 217 · **Open PRs**: 1 · **Closed issues**: 41 · **Open issues**: 2 · **Commits**: 281
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-20 | 1 | 13 | 0 | 0 | 0 | 14 |
-| 90d | 2026-06-20 | 5 | 20 | 0 | 0 | 0 | 26 |
-| last180d | 2026-03-22 | 8 | 50 | 0 | 2 | 0 | 55 |
-| 360d | 2025-09-23 | 16 | 88 | 0 | 7 | 0 | 95 |
-| last720d | 2024-09-28 | 55 | 217 | 0 | 41 | 1 | 281 |
+| 30d | 2026-08-21 | 0 | 3 | 1 | 0 | 1 | 3 |
+| last60d | 2026-07-22 | 1 | 13 | 1 | 0 | 1 | 12 |
+| 90d | 2026-06-22 | 4 | 20 | 1 | 0 | 1 | 25 |
+| last180d | 2026-03-24 | 7 | 48 | 1 | 2 | 1 | 52 |
+| 360d | 2025-09-25 | 16 | 88 | 1 | 7 | 1 | 94 |
+| last720d | 2024-09-30 | 55 | 217 | 1 | 41 | 2 | 281 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for mdns-scanner lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:59:21Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:14:39Z._
