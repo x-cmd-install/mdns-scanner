@@ -37,22 +37,22 @@ Total: **16,629** lines of code across **116** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 72 · **Forks**: 3 · **Open issues**: 43 · **Contributors**: 1
+- **Stars**: 73 · **Forks**: 4 · **Open issues**: 43 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 217 · **Open PRs**: 1 · **Closed issues**: 41 · **Open issues**: 2 · **Commits**: 281
+- **Releases**: 55 · **Merged PRs**: 217 · **Open PRs**: 2 · **Closed issues**: 41 · **Open issues**: 2 · **Commits**: 281
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 3 | 1 | 0 | 1 | 3 |
-| last60d | 2026-07-22 | 1 | 13 | 1 | 0 | 1 | 12 |
-| 90d | 2026-06-22 | 4 | 20 | 1 | 0 | 1 | 25 |
-| last180d | 2026-03-24 | 7 | 48 | 1 | 2 | 1 | 52 |
-| 360d | 2025-09-25 | 16 | 88 | 1 | 7 | 1 | 94 |
-| last720d | 2024-09-30 | 55 | 217 | 1 | 41 | 2 | 281 |
+| 30d | 2026-08-22 | 0 | 3 | 2 | 0 | 1 | 3 |
+| last60d | 2026-07-23 | 1 | 13 | 2 | 0 | 1 | 12 |
+| 90d | 2026-06-23 | 4 | 20 | 2 | 0 | 1 | 25 |
+| last180d | 2026-03-25 | 7 | 48 | 2 | 2 | 1 | 52 |
+| 360d | 2025-09-26 | 16 | 88 | 2 | 7 | 1 | 94 |
+| last720d | 2024-10-01 | 55 | 217 | 2 | 41 | 2 | 281 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for mdns-scanner lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:14:39Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:20:31Z._
