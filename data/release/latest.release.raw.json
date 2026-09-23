@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2769570,
       "digest": "sha256:6a05dada89af3bd1a285113d0482ab4316fe2175d051b5e32a33b77a192b300c",
-      "download_count": 36,
+      "download_count": 38,
       "created_at": "2026-08-16T18:45:03Z",
       "updated_at": "2026-08-16T18:45:04Z",
       "browser_download_url": "https://github.com/CramBL/mdns-scanner/releases/download/v0.28.0/mdns-scanner-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2601124,
       "digest": "sha256:a849166c980348b37f18e62228224905d7dc30b20dfbf82c4a01d62523b727e9",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-08-16T18:45:03Z",
       "updated_at": "2026-08-16T18:45:04Z",
       "browser_download_url": "https://github.com/CramBL/mdns-scanner/releases/download/v0.28.0/mdns-scanner-aarch64-pc-windows-msvc.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2985683,
       "digest": "sha256:bf8e08f70d951979c1bd89b38ed6edfa1370eecf6af277aa49bff8abc86e3ce5",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-16T18:45:04Z",
       "updated_at": "2026-08-16T18:45:04Z",
       "browser_download_url": "https://github.com/CramBL/mdns-scanner/releases/download/v0.28.0/mdns-scanner-aarch64-unknown-linux-musl.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 65047,
       "digest": "sha256:ed033af353c10c7227a7810510baa8a665ca3a5685ac921948e4820fa0318437",
-      "download_count": 20,
+      "download_count": 23,
       "created_at": "2026-08-16T18:45:04Z",
       "updated_at": "2026-08-16T18:45:05Z",
       "browser_download_url": "https://github.com/CramBL/mdns-scanner/releases/download/v0.28.0/mdns-scanner-installer.sh"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 2644698,
       "digest": "sha256:68cb6d2b80adc430a29920d1a7a89459163c8c22a17e12467700a3b2eefc86ab",
-      "download_count": 38,
+      "download_count": 49,
       "created_at": "2026-08-16T18:45:05Z",
       "updated_at": "2026-08-16T18:45:06Z",
       "browser_download_url": "https://github.com/CramBL/mdns-scanner/releases/download/v0.28.0/mdns-scanner-x86_64-pc-windows-msvc.zip"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 3367142,
       "digest": "sha256:07f379b42e0db9d9c7423eac92e3296db26d5c2ed58a9ae48399fab6e050dfb1",
-      "download_count": 72,
+      "download_count": 80,
       "created_at": "2026-08-16T18:45:06Z",
       "updated_at": "2026-08-16T18:45:06Z",
       "browser_download_url": "https://github.com/CramBL/mdns-scanner/releases/download/v0.28.0/mdns-scanner-x86_64-unknown-linux-musl.tar.gz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": "sha256:a2cd64773cc7b2dbbe827e1c67e50eb26fd9d8752305ab7f7156dd531714c41c",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-16T18:45:06Z",
       "updated_at": "2026-08-16T18:45:06Z",
       "browser_download_url": "https://github.com/CramBL/mdns-scanner/releases/download/v0.28.0/mdns-scanner-x86_64-unknown-linux-musl.tar.gz.sha256"
