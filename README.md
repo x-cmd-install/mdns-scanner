@@ -47,12 +47,12 @@ Total: **16,650** lines of code across **116** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 1 | 9 | 0 | 1 | 8 | 14 |
-| last60d | 2026-07-30 | 2 | 18 | 0 | 1 | 8 | 23 |
-| 90d | 2026-06-30 | 4 | 25 | 0 | 1 | 8 | 31 |
-| last180d | 2026-04-01 | 8 | 50 | 0 | 1 | 8 | 60 |
-| 360d | 2025-10-03 | 17 | 93 | 0 | 8 | 8 | 104 |
-| last720d | 2024-10-08 | 56 | 223 | 0 | 42 | 9 | 292 |
+| 30d | 2026-08-30 | 1 | 9 | 0 | 1 | 8 | 14 |
+| last60d | 2026-07-31 | 2 | 18 | 0 | 1 | 8 | 23 |
+| 90d | 2026-07-01 | 4 | 25 | 0 | 1 | 8 | 31 |
+| last180d | 2026-04-02 | 8 | 50 | 0 | 1 | 8 | 60 |
+| 360d | 2025-10-04 | 17 | 93 | 0 | 8 | 8 | 104 |
+| last720d | 2024-10-09 | 56 | 223 | 0 | 42 | 9 | 292 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for mdns-scanner lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:34:56Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:57:25Z._
