@@ -14,15 +14,15 @@ x install mdns-scanner
 
 ## Code insight
 
-Total: **16,650** lines of code across **116** files in the top 5 languages.
+Total: **16,789** lines of code across **116** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 15,881 | 410 | 2,184 | 93 |
-| Toml | 582 | 113 | 86 | 19 |
+| Rust | 16,018 | 412 | 2,209 | 93 |
+| Toml | 584 | 113 | 87 | 19 |
 | Sh | 141 | 7 | 30 | 1 |
 | Bash | 46 | 1 | 14 | 1 |
-| Markdown | 0 | 541 | 292 | 2 |
+| Markdown | 0 | 546 | 294 | 2 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **16,650** lines of code across **116** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.0` (2026-09-24)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-09-29
 - **Assets in release**: 35
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **16,650** lines of code across **116** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 223 · **Open PRs**: 0 · **Closed issues**: 42 · **Open issues**: 9 · **Commits**: 292
+- **Releases**: 56 · **Merged PRs**: 227 · **Open PRs**: 0 · **Closed issues**: 46 · **Open issues**: 5 · **Commits**: 296
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 9 | 0 | 1 | 8 | 14 |
-| last60d | 2026-07-31 | 2 | 18 | 0 | 1 | 8 | 23 |
-| 90d | 2026-07-01 | 4 | 25 | 0 | 1 | 8 | 31 |
-| last180d | 2026-04-02 | 8 | 50 | 0 | 1 | 8 | 60 |
-| 360d | 2025-10-04 | 17 | 93 | 0 | 8 | 8 | 104 |
-| last720d | 2024-10-09 | 56 | 223 | 0 | 42 | 9 | 292 |
+| 30d | 2026-08-31 | 1 | 13 | 0 | 5 | 4 | 0 |
+| last60d | 2026-08-01 | 2 | 22 | 0 | 5 | 4 | 0 |
+| 90d | 2026-07-02 | 4 | 29 | 0 | 5 | 4 | 0 |
+| last180d | 2026-04-03 | 8 | 54 | 0 | 5 | 4 | 0 |
+| 360d | 2025-10-05 | 17 | 97 | 0 | 12 | 4 | 0 |
+| last720d | 2024-10-10 | 56 | 227 | 0 | 46 | 5 | 296 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for mdns-scanner lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:57:25Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:44:47Z._
