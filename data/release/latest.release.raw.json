@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2787696,
       "digest": "sha256:c57c930950ff5338c90fd12ad0cb65f9ed10a239b53f54edcd964c00c05fa3bf",
-      "download_count": 13,
+      "download_count": 16,
       "created_at": "2026-09-30T09:13:12Z",
       "updated_at": "2026-09-30T09:13:12Z",
       "browser_download_url": "https://github.com/CramBL/mdns-scanner/releases/download/v1.0.1/mdns-scanner-aarch64-apple-darwin.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 3522617,
       "digest": "sha256:237538cdc97d5c1803e8a5d20fffeab6f02c36435e831a23c57e4990f62d2409",
-      "download_count": 17,
+      "download_count": 19,
       "created_at": "2026-09-30T09:13:16Z",
       "updated_at": "2026-09-30T09:13:17Z",
       "browser_download_url": "https://github.com/CramBL/mdns-scanner/releases/download/v1.0.1/mdns-scanner-x86_64-unknown-linux-musl.tar.gz"
