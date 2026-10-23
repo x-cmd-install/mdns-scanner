@@ -47,12 +47,12 @@ Total: **16,813** lines of code across **116** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 13 | 1 | 5 | 3 | 12 |
-| last60d | 2026-08-23 | 2 | 17 | 1 | 6 | 3 | 24 |
-| 90d | 2026-07-24 | 3 | 27 | 1 | 6 | 3 | 33 |
-| last180d | 2026-04-25 | 7 | 40 | 1 | 6 | 3 | 53 |
-| 360d | 2025-10-27 | 18 | 99 | 1 | 13 | 3 | 113 |
-| last720d | 2024-11-01 | 57 | 231 | 1 | 47 | 4 | 302 |
+| 30d | 2026-09-23 | 2 | 13 | 1 | 5 | 2 | 12 |
+| last60d | 2026-08-24 | 2 | 17 | 1 | 6 | 3 | 24 |
+| 90d | 2026-07-25 | 3 | 26 | 1 | 6 | 3 | 33 |
+| last180d | 2026-04-26 | 7 | 40 | 1 | 6 | 3 | 53 |
+| 360d | 2025-10-28 | 18 | 99 | 1 | 13 | 3 | 113 |
+| last720d | 2024-11-02 | 57 | 231 | 1 | 47 | 4 | 302 |
 
 ## Release assets
 
@@ -94,6 +94,14 @@ Total: **16,813** lines of code across **116** files in the top 5 languages.
 | [source.tar.gz](https://github.com/CramBL/mdns-scanner/releases/download/v1.0.1/source.tar.gz) | 6.0 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/CramBL/mdns-scanner/releases/download/v1.0.1/source.tar.gz.sha256) | 81 B | `other` |
 
+## Distribution status
+
+Reported by **5** distros on [repology.org](https://repology.org/project/mdns-scanner). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.0.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for mdns-scanner lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mdns-scanner` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -103,4 +111,4 @@ Install metadata for mdns-scanner lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:55:07Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:59:59Z._
