@@ -14,15 +14,15 @@ x install mdns-scanner
 
 ## Code insight
 
-Total: **16,813** lines of code across **116** files in the top 5 languages.
+Total: **16,809** lines of code across **116** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 16,046 | 424 | 2,214 | 93 |
-| Toml | 580 | 113 | 87 | 19 |
+| Toml | 576 | 113 | 88 | 19 |
 | Sh | 141 | 7 | 30 | 1 |
 | Bash | 46 | 1 | 14 | 1 |
-| Markdown | 0 | 553 | 297 | 2 |
+| Markdown | 0 | 560 | 297 | 2 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **16,813** lines of code across **116** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.1` (2026-09-30)
-- **Last commit**: 2026-10-10
+- **Last commit**: 2026-10-24
 - **Assets in release**: 35
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **16,813** lines of code across **116** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 231 · **Open PRs**: 1 · **Closed issues**: 47 · **Open issues**: 4 · **Commits**: 302
+- **Releases**: 57 · **Merged PRs**: 232 · **Open PRs**: 0 · **Closed issues**: 47 · **Open issues**: 4 · **Commits**: 303
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 2 | 9 | 1 | 5 | 2 | 12 |
-| last60d | 2026-08-25 | 2 | 17 | 1 | 6 | 3 | 24 |
-| 90d | 2026-07-26 | 3 | 26 | 1 | 6 | 3 | 33 |
-| last180d | 2026-04-27 | 7 | 40 | 1 | 6 | 3 | 53 |
-| 360d | 2025-10-29 | 18 | 99 | 1 | 13 | 3 | 113 |
-| last720d | 2024-11-03 | 57 | 231 | 1 | 47 | 4 | 302 |
+| 30d | 2026-09-25 | 1 | 10 | 0 | 5 | 2 | 3 |
+| last60d | 2026-08-26 | 2 | 18 | 0 | 6 | 3 | 25 |
+| 90d | 2026-07-27 | 3 | 27 | 0 | 6 | 3 | 34 |
+| last180d | 2026-04-28 | 7 | 41 | 0 | 6 | 3 | 54 |
+| 360d | 2025-10-30 | 18 | 100 | 0 | 13 | 3 | 111 |
+| last720d | 2024-11-04 | 57 | 232 | 0 | 47 | 4 | 303 |
 
 ## Release assets
 
@@ -111,4 +111,4 @@ Install metadata for mdns-scanner lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:53:20Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:52:27Z._
