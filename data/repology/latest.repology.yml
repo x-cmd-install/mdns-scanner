@@ -2,8 +2,8 @@
   srcname: mdns-scanner
   binname: mdns-scanner
   visiblename: mdns-scanner
-  version: 1.0.1
-  origversion: 1.0.1-1
+  version: 1.0.2
+  origversion: 1.0.2-1
   status: newest
   summary: Scan a network and create a list of IPs and associated hostnames, including mDNS hostnames and other aliases.
   maintainers:
@@ -52,7 +52,7 @@
   visiblename: mdns-scanner
   version: 1.0.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Scan a network and create a list of IPs and associated hostnames, including mDNS hostnames and other aliases
   maintainers:
     - cameo007@mintux.de
