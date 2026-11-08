@@ -22,7 +22,7 @@ Total: **16,821** lines of code across **116** files in the top 5 languages.
 | Toml | 580 | 113 | 87 | 19 |
 | Sh | 141 | 7 | 30 | 1 |
 | Bash | 46 | 1 | 14 | 1 |
-| Markdown | 0 | 564 | 298 | 2 |
+| Markdown | 0 | 570 | 300 | 2 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **16,821** lines of code across **116** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.2` (2026-10-29)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-11-07
 - **Assets in release**: 35
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **16,821** lines of code across **116** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 58 · **Merged PRs**: 234 · **Open PRs**: 0 · **Closed issues**: 47 · **Open issues**: 4 · **Commits**: 306
+- **Releases**: 58 · **Merged PRs**: 235 · **Open PRs**: 0 · **Closed issues**: 47 · **Open issues**: 4 · **Commits**: 308
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 4 | 0 | 0 | 0 | 6 |
-| last60d | 2026-09-08 | 3 | 19 | 0 | 6 | 3 | 27 |
-| 90d | 2026-08-09 | 4 | 29 | 0 | 6 | 3 | 37 |
-| last180d | 2026-05-11 | 8 | 43 | 0 | 6 | 3 | 57 |
-| 360d | 2025-11-12 | 15 | 96 | 0 | 11 | 3 | 111 |
-| last720d | 2024-11-17 | 58 | 234 | 0 | 47 | 4 | 306 |
+| 30d | 2026-10-09 | 1 | 5 | 0 | 0 | 0 | 6 |
+| last60d | 2026-09-09 | 3 | 20 | 0 | 6 | 3 | 27 |
+| 90d | 2026-08-10 | 4 | 30 | 0 | 6 | 3 | 30 |
+| last180d | 2026-05-12 | 8 | 44 | 0 | 6 | 3 | 59 |
+| 360d | 2025-11-13 | 15 | 97 | 0 | 11 | 3 | 112 |
+| last720d | 2024-11-18 | 58 | 235 | 0 | 47 | 4 | 308 |
 
 ## Release assets
 
@@ -111,4 +111,4 @@ Install metadata for mdns-scanner lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:09:15Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:11:01Z._
