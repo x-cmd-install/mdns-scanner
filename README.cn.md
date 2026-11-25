@@ -47,12 +47,12 @@ x install mdns-scanner
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 4 | 1 | 0 | 0 | 4 |
-| last60d | 2026-09-25 | 2 | 14 | 1 | 5 | 2 | 15 |
-| 90d | 2026-08-26 | 3 | 22 | 1 | 6 | 3 | 32 |
-| last180d | 2026-05-28 | 8 | 43 | 1 | 6 | 3 | 58 |
-| 360d | 2025-11-29 | 14 | 93 | 1 | 10 | 3 | 109 |
-| last720d | 2024-12-04 | 58 | 236 | 1 | 47 | 4 | 310 |
+| 30d | 2026-10-26 | 1 | 4 | 1 | 0 | 0 | 4 |
+| last60d | 2026-09-26 | 2 | 13 | 1 | 5 | 2 | 15 |
+| 90d | 2026-08-27 | 3 | 22 | 1 | 6 | 3 | 32 |
+| last180d | 2026-05-29 | 8 | 43 | 1 | 6 | 3 | 58 |
+| 360d | 2025-11-30 | 14 | 93 | 1 | 10 | 3 | 109 |
+| last720d | 2024-12-05 | 58 | 236 | 1 | 47 | 4 | 310 |
 
 ## Release 资产
 
@@ -94,14 +94,6 @@ x install mdns-scanner
 | [source.tar.gz](https://github.com/CramBL/mdns-scanner/releases/download/v1.0.2/source.tar.gz) | 6.0 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/CramBL/mdns-scanner/releases/download/v1.0.2/source.tar.gz.sha256) | 81 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/mdns-scanner) 上共有 **5** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `1.0.2` | ✅ latest |
-
 ## 改进这些数据
 
 mdns-scanner 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `mdns-scanner` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -111,4 +103,4 @@ mdns-scanner 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:22:53Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:47:59Z._
